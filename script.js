@@ -76,7 +76,7 @@ if ("IntersectionObserver" in window) {
 
 // Typing effect in the hero section.
 const typedRole = document.getElementById("typed-role");
-const roleWords = ["Machine Learning", "Artificial Intelligence", "Embedded Systems", "DIY Engineering"];
+const roleWords = ["Machine Learning", "Artificial Intelligence", "Embedded Systems", "Engineering"];
 
 if (typedRole && !prefersReducedMotion) {
   let wordIndex = 0;
